@@ -1,1 +1,1 @@
-# ecommerce-milestone-3
+# ecommerce-figma-watch
